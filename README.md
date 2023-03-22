@@ -31,6 +31,7 @@ LAT: latitude
 LONG: longitude
 
 2. Parasite species traits
+
 traits.p.csv
 
 Group: taxon group of each parasite
@@ -56,6 +57,7 @@ Parasitism.form: parasitism form of each parasite species
 Organ: which organ the parasite was found in the host
 
 2. Fish individual traits
+
 traits.csv
 
 COD.COL: sample code
