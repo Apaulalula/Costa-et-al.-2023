@@ -1,0 +1,13 @@
+Classe;Ordem;Family;GEN;EPPT;NFS;NPF;EVM;TPC_G;TPC_LV;S_B;HBT;PD50
+Actinopterygii;Perciformes;Sciaenidae;Bairdiella;ronchus;10;8;marine;Zoobenthivorous;3.5;yes;demersal;0.5312
+Actinopterygii;Perciformes;centropomidae;Centropomus;parallelus;8;8;brackish;Zoobenthivorous;4.2;yes;demersal;0.5005
+Actinopterygii;Perciformes;Sciaenidae;Cynoscion;acoupa;1;1;brackish;Zoobenthivorous;4.1;yes;demersal;0.5
+Actinopterygii;Perciformes;Gerreidae;Eugerres;brasilianus;2;2;marine;Zoobenthivorous;3.4;yes;demersal;0.5156
+Actinopterygii;Siluriformes;Ariidae;Genidens;barbus;1;1;brackish;Zoobenthivorous;3.8;yes;demersal;0.5625
+Actinopterygii;Siluriformes;Ariidae;Genidens;genidens;12;10;brackish;Zoobenthivorous;3.6;yes;demersal;0.5625
+Actinopterygii;Perciformes;Cichlidae;Geophagus;iporangensis;39;36;freshwater;omnivorous;2.6;yes;benthopelagic;0.5
+Actinopterygii;Gymnotiformes;Gymnotidae;Gymnotus;carapo;1;1;freshwater;omnivorous;3.6;no;benthopelagic;0.5
+Actinopterygii;Characiformes;Erythrinidae;Hoplias;malabaricus;49;46;freshwater;Zooplanktivorous;4.5;no;benthopelagic;0.5001
+Actinopterygii;Mugiliformes;Mugilidae;Mugil;curema;3;3;brackish;omnivorous;2;yes;reef.associated;0.5
+Actinopterygii;Characiformes;Characidae;Oligosarcus;hepsetus;12;8;freshwater;Piscivorous;4.2;yes;benthopelagic;0.5
+Actinopterygii;Siluriformes;Heptapteridae;Rhamdia;quelen;22;20;freshwater;Zooplanktivorous;3.9;yes;benthopelagic;0.5
