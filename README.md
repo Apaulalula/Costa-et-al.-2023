@@ -1,2 +1,6 @@
 # Costa-et-al.-2023
-Modularity in host-parasite mixed-networks
+Publication: Modularity in host-parasite mixed-networks
+
+## Data: 
+
+## Code:
